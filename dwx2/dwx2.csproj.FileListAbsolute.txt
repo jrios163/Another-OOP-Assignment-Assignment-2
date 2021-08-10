@@ -1,0 +1,6 @@
+/Users/joserios/Projects/dwx2/dwx2/bin/Debug/dwx2.exe
+/Users/joserios/Projects/dwx2/dwx2/bin/Debug/dwx2.pdb
+/Users/joserios/Projects/dwx2/dwx2/obj/Debug/dwx2.csproj.AssemblyReference.cache
+/Users/joserios/Projects/dwx2/dwx2/obj/Debug/dwx2.csproj.CoreCompileInputs.cache
+/Users/joserios/Projects/dwx2/dwx2/obj/Debug/dwx2.exe
+/Users/joserios/Projects/dwx2/dwx2/obj/Debug/dwx2.pdb
